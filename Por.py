@@ -879,7 +879,7 @@ HTML_TEMPLATE = """
         </div>
         <div class="projects-grid">
             <div class="project-card reveal">
-                <img src="/static/moto-world.jpg" alt="Moto World" class="project-image">
+                <img src="/static/motoworld.jpg" alt="Moto World" class="project-image">
                 <div class="project-content">
                     <span class="project-badge">Web Application</span>
                     <h3>Moto World Website</h3>
@@ -953,7 +953,7 @@ HTML_TEMPLATE = """
             <div class="qr-section">
                 <h3>Scan to Connect</h3>
                 <div class="qr-container">
-                    <img src="/static/qr-code.png" alt="QR Profile" class="qr-image">
+                    <img src="/static/qrcode.png" alt="QR Profile" class="qr-image">
                 </div>
                 <p>Scan this QR code to quickly view my profile or add me to your contacts.</p>
             </div>
