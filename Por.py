@@ -961,7 +961,7 @@ HTML_TEMPLATE = """
     </section>
 
     <footer>
-        <p>&copy; 2026 Duong Duy Khang. All rights reserved. Built with passion and <span style="color: var(--accent-pink);">❤</span></p>
+        <p>&copy; 2026 Duong Duy Khang. All rights reserved. and responsibility.</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
