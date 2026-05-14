@@ -852,6 +852,8 @@ HTML_TEMPLATE = """
                     <span class="skill-tag">Git</span>
                     <span class="skill-tag">SQL</span>
                     <span class="skill-tag">Testing</span>
+                    <span class="skill-tag">AI-Assisted Coding</span>
+                    <span class="skill-tag">Prompt Engineering</span>
                     <span class="skill-tag">DevOps</span>
                 </div>
             </div>
